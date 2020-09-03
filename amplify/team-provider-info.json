@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quebeleza-dev-221800-authRole",
+      "UnauthRoleArn": "arn:aws:iam::061326115151:role/amplify-quebeleza-dev-221800-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::061326115151:role/amplify-quebeleza-dev-221800-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-quebeleza-dev-221800-deployment",
+      "UnauthRoleName": "amplify-quebeleza-dev-221800-unauthRole",
+      "StackName": "amplify-quebeleza-dev-221800",
+      "StackId": "arn:aws:cloudformation:us-east-1:061326115151:stack/amplify-quebeleza-dev-221800/13e30810-ed94-11ea-867d-12b57bb5da09",
+      "AmplifyAppId": "d2yvi4p9whrg8i"
+    }
+  }
+}
