@@ -17,6 +17,44 @@ font-style: italic;
 font-size:9vw;
 text-align: center;
 }
+.lorem{
+  font-family: "Sofia";
+font-style: italic;
+/*font-size: calc(10px + 2vmin);*/
+font-size:4vw;
+text-align: left;
+text-justify: distribute-all-lines;
+}
+
+.lorem-list{
+  list-style-type: upper-latin;;
+  font-family: "Sofia";
+font-style: italic;
+/*font-size: calc(10px + 2vmin);*/
+font-size:4vw;
+text-align: left;
+
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
 .back{
   background-color: #ffea6d;
   justify-content: center;
