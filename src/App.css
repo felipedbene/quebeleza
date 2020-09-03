@@ -1,15 +1,3 @@
-.App-header {
-  background-color: #ffea6d;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  
-  color: white;
-}
-
-
 p.morada{ color: #30114c; 
 font-family: "Sofia";
 font-style: italic;
@@ -58,6 +46,13 @@ a:active {
 .back{
   background-color: #ffea6d;
   justify-content: center;
+  
+    border: 1% solid #ffea6d;
+    padding-top: 0%;
+    padding-right: 0.5%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+  
 }
 .qblz{
   text-align-last:  center;
