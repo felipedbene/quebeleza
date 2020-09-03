@@ -4,13 +4,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} alt="logo" />
-        <p>
+    <div className="back">
+      
+        <img src={logo} className="qblz" alt="logo" />
+        <p className="morada">
           Proximamente....
-        </p>
-      </header>
+          </p>
+      
     </div>
   );
 }
